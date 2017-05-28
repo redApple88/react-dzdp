@@ -19,9 +19,9 @@
 
 项目使用步骤：
 	
-	1： git clone 
+	1： git clone git@github.com:redApple88/react-dzdp.git
 
-	2,  cd React-dzdp
+	2,  cd react-dzdp
 
 	3, 安装项目依赖包
 		npm install 
